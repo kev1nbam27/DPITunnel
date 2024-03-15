@@ -3,6 +3,7 @@
 
 #include <cstddef>
 #include <string>
+#include <cstdint>
 
 bool wildcard_match(char const *needle, char const *haystack);
 
